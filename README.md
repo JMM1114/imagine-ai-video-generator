@@ -14,5 +14,4 @@ imagine-ai-video-generator/
 ├── android/
 │
 ├── .gitignore
-└── README.md# imagine-ai-video-generator
-AI-powered text-to-video and image-to-video generator
+└── README.md
